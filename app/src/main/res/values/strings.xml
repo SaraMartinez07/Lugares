@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaLugares</string>
+    <string name="valorInicial">Valor Inicial</string>
+    <string name="tituloventana">contenido</string>
+</resources>
